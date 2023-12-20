@@ -20,4 +20,11 @@ Este es un programa simple en C# que calcula y muestra la secuencia Fibonacci ut
 1. do-while Loop: Ejecuta el cuerpo del programa al menos una vez y pregunta al usuario si desea continuar al final de cada iteración.
 2. cuerpo del programa: Contiene la lógica principal del programa, que incluye la solicitud del número de términos de Fibonacci, el cálculo y la impresión de la secuencia, y la pregunta para continuar.
 
-### 3. Ejemplos
+### demostración:
+
+```bash
+    Ingrese el número de términos de la secuencia Fibonacci: 7
+    Secuencia Fibonacci:
+    0 1 1 2 3 5 8 
+    ¿Desea continuar? (S/N): N
+```
